@@ -1,1 +1,1 @@
-![SeeQ 포스터](./images/13. SeeQ_포스터.jpg)
+![SeeQ 포스터](./images/13_SeeQ_Poster.jpg)
