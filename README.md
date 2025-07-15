@@ -95,4 +95,3 @@
 ![page28](./images/SEEQ_최종_ppt%2028.jpg)
 ![page29](./images/SEEQ_최종_ppt%2029.jpg)
 ![page30](./images/SEEQ_최종_ppt%2030.jpg)
-![page31](./images/SEEQ_최종_ppt%2031.jpg)
